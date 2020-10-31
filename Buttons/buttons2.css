@@ -1,0 +1,15 @@
+.button-nav {
+  display: inline-block;
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: #000;
+  padding: .8rem 1rem;
+  border: 1px solid #000;
+}
+
+.button-nav:hover {
+  background-color: black;
+  color: white;
+  transition: background-color .5s ease-in-out;
+}
